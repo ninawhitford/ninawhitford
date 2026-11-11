@@ -1,6 +1,7 @@
 ## Hi, I'm Nina 👋
 
-I am currently getting to grips with GitHub... Watch this space!
+I am currently getting to grips with GitHub... Watch this space for some exciting things to come! 😄
+
 <!--
 **ninawhitford/ninawhitford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
